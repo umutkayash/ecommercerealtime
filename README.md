@@ -1,6 +1,4 @@
 
-
-````markdown
 # 🚀 God Mode Stack - All In One Python Monolith
 
 <img src="https://img.shields.io/badge/python-3.10%2B-blue" alt="Python" />
