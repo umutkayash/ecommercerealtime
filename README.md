@@ -23,7 +23,7 @@
 ✅ HTTPX for external API calls  
 ✅ Streamlit for a live dashboard
 
-> 🚀 **Single monolithic `god_mode_stack.py` file.**  
+> 🚀 **Single monolithic `main.py` file.**  
 > Copy, run, done. Extreme power, zero boilerplate.
 
 ---
